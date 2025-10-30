@@ -1,0 +1,4 @@
+2025-10-30 06:52:14,723 - INFO - Added 10 of apple
+2025-10-30 06:52:14,723 - INFO - Added 2 of banana
+2025-10-30 06:52:14,723 - ERROR - Tried to remove non-existent item: orange
+2025-10-30 06:52:14,723 - INFO - Data saved successfully to inventory.json
